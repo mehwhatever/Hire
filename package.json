@@ -1,0 +1,18 @@
+{
+  "name": "Hire",
+  "version": "0.0.1",
+  "description": "Online Platform for Coding Interviews",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Hire"
+  },
+  "author": "Adwait Kumar Singh",
+  "license": "BSD-2-Clause"
+}
