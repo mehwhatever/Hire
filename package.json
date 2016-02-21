@@ -14,5 +14,10 @@
     "url": "Hire"
   },
   "author": "Adwait Kumar Singh",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "multer": "~1.1.0",
+    "body-parser": "~1.15.0",
+    "passport": "~0.3.2"
+  }
 }
